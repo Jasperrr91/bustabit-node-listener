@@ -1,0 +1,23 @@
+{
+  "name": "bustabit-node-listener",
+  "version": "0.0.13",
+  "description": "Listen to the bustabit websocket and record historical data",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasperrr91/bustabit-node-listener.git"
+  },
+  "author": "Jasper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasperrr91/bustabit-node-listener/issues"
+  },
+  "homepage": "https://github.com/Jasperrr91/bustabit-node-listener#readme"
+}
